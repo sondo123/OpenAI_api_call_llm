@@ -1,1 +1,1 @@
-# OpenAI_api_call_llm
+# OpenAI LLM with embeddings and fine-tuning to answer specific questions
